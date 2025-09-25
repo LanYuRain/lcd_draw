@@ -15,6 +15,7 @@ button {
     height: 5vw;
     border-width: 0;
     background-color: #619af0;
+    transition: 0.1s;
 }
 
 button:hover {
